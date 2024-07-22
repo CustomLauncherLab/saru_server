@@ -78,8 +78,8 @@ function resolveSelectedRAM(ram) {
 const DEFAULT_CONFIG = {
     settings: {
         game: {
-            resWidth: 1280,
-            resHeight: 720,
+            resWidth: 1900,
+            resHeight: 960,
             fullscreen: false,
             autoConnect: true,
             launchDetached: true
