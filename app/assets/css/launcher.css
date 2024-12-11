@@ -1555,7 +1555,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Image of the auth account's skin. */
 .settingsAuthAccountImage {
-    height: 115px;
+    height: 88px;
 }
 
 /* Right hand side of the auth account, for info + actions. */
