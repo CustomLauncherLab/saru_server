@@ -1,5 +1,5 @@
 appId: 'saru_server'
-productName: '사루의 놀이터'
+productName: 'saru_server'
 artifactName: 'saru_server-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger'
